@@ -1,0 +1,43 @@
+body{
+    background:burlywood;
+}
+
+#mainbody{
+    margin-left:40%;
+    margin-top:60px;
+    background:black;
+    width:250px;
+    height:300px;
+    border:solid 2px;
+    justify-content: center;
+    align-items: center;
+    border-radius:10px;
+
+
+}
+
+
+#scr{
+    width:100%;
+    height:41px;
+}
+
+.buttn{
+    width: 390px;
+    height:300px;
+    margin-left: 1px;
+}
+
+button{
+    width: 59px;
+    height:35px;
+    margin-top:16px;
+    font-size:24px;
+    font-weight:600;
+    font-family:sans-serif;
+}
+
+button:hover{
+    cursor:pointer;
+    background:greenyellow;
+}
